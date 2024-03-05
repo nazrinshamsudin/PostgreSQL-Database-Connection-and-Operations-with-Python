@@ -9,7 +9,6 @@ Prerequisites
 Usage
 
     Update the database connection parameters (hostname, database, username, password, port) in the script according to your PostgreSQL setup.
-
     Run the script using:
     python postgres_operations.py
 
@@ -19,9 +18,6 @@ This repository contains a Python script demonstrating how to connect to a Postg
 Prerequisites
 
     Install the psycopg2 module using:
-
-    bash
-    Copy code
     pip install psycopg2
 
 Usage
@@ -29,9 +25,6 @@ Usage
     Update the database connection parameters (hostname, database, username, password, port) in the script according to your PostgreSQL setup.
 
     Run the script using:
-
-    bash
-    Copy code
     python postgres_operations.py
 
     
